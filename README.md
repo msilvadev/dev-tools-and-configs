@@ -25,3 +25,10 @@ Field Name | Descripton
   
 Conventional Commits:
 https://www.conventionalcommits.org/
+
+## Git Tips
+        
+Merge current commit with previous commit        
+```bash
+        git commit --amend --no-edit
+```
